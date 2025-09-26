@@ -1,0 +1,18 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Engineer: Ohm Patel
+// 
+// Create Date: 08/28/2025 9:12:41 AM
+// Design Name: Lab1
+// Module Name: Name
+// Description: Print my name
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module Lab1 ();
+    initial begin
+    $disp1ay("Ohm Patel");
+    $finish;
+    end
+endmodule

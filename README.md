@@ -6,27 +6,22 @@ A comprehensive collection of laboratory assignments and projects from ECE 310 (
 
 - **Course**: ECE 310 - Design of Complex Digital Systems
 - **Institution**: North Carolina State University
-<<<<<<< HEAD
-- **Academic Year**: 2025
-=======
-- **Student**: Ohm Patel
 - **Academic Year**: Fall 2025
->>>>>>> 89d1711a77d1800a529d75c4a0f904b412a4b6ae
 
 ## 🗂️ Repository Structure
 
 ```
-ECE310-Verilog-Labs/
-├── README.md                   # This overview file
-├── Labs/                       # Weekly laboratory assignments
-│   ├── README.md              # Detailed lab documentation
-│   ├── Lab 1/                 # Introduction to Verilog
-│   ├── Lab 2/                 # Full Adder & RCA
-│   ├── Lab 3/                 # Kogge-Stone Adder
-│   └── Labs 4-8/              # Future assignments
-└── Projects/                   # Major course projects
-    ├── Project 1 - Wallace Multiplier/  # 8×8 Wallace Tree Multiplier
-    └── Project 2/              # Future project
+ECE310-Verilog-Files/
+├── README.md                             # This overview file
+├── Labs/                                 # Weekly laboratory assignments
+│   ├── README.md                         # Detailed lab documentation
+│   ├── Lab 1/                            # Introduction to Verilog
+│   ├── Lab 2/                            # Full Adder & RCA
+│   ├── Lab 3/                            # Kogge-Stone Adder
+│   └── Labs 4-8/                         # Future assignments
+└── Projects/                             # Major course projects
+    ├── Project 1 - Wallace Multiplier/   # 8×8 Wallace Tree Multiplier
+    └── Project 2/                        # Future project
 ```
 
 ## 🔬 Course Components

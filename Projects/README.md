@@ -1,6 +1,6 @@
 # ECE310 Course Projects
 
-This directory contains the major design projects from ECE 310 (Design of Complex Digital Systems), demonstrating advanced digital system design and implementation skills.
+This directory contains major design projects demonstrating advanced digital system design and implementation skills.
 
 ## 🗂️ Project Structure
 

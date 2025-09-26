@@ -1,17 +1,12 @@
-# ECE310 Digital Design Portfolio
+# Verilog Digital Design Portfolio
 
-A comprehensive collection of laboratory assignments and projects from ECE 310 (Design of Complex Digital Systems) at North Carolina State University. This repository demonstrates progressive mastery of digital logic design concepts, hardware description languages, and advanced arithmetic circuit implementations.
+A comprehensive collection of laboratory assignments and projects. This repository demonstrates progressive mastery of digital logic design concepts, hardware description languages, and advanced arithmetic circuit implementations.
 
-## 📚 Course Information
-
-- **Course**: ECE 310 - Design of Complex Digital Systems
-- **Institution**: North Carolina State University
-- **Academic Year**: Fall 2025
 
 ## 🗂️ Repository Structure
 
 ```
-ECE310-Verilog-Files/
+Verilog-Projects/
 ├── README.md                             # This overview file
 ├── Labs/                                 # Weekly laboratory assignments
 │   ├── README.md                         # Detailed lab documentation

@@ -1,20 +1,20 @@
 # ECE310 Laboratory Assignments
 
-This directory contains the weekly laboratory assignments from ECE 310 (Design of Complex Digital Systems) at NC State University, focusing on fundamental digital logic design and Verilog programming concepts.
+This directory contains the weekly laboratory assignments focusing on fundamental digital logic design and Verilog programming concepts.
 
 ## 🗂️ Lab Structure
 
 ```
 Labs/
 ├── Lab 1/
-│   ├── ECE 310 - Lab 1.pdf     # Lab assignment instructions
+│   ├── Lab 1.pdf               # Lab assignment instructions
 │   └── lab1.v                  # Basic Verilog introduction
 ├── Lab 2/
-│   ├── ECE 310 - Lab 2.pdf     # Lab assignment instructions
+│   ├── Lab 2.pdf               # Lab assignment instructions
 │   ├── full_adder_struct.v     # Full adder and 4-bit RCA implementation
 │   └── Lab 2 Report.pdf        # Lab report and analysis
 ├── Lab 3/
-│   ├── ECE 310 - Lab 3.pdf     # Lab assignment instructions
+│   ├── Lab 3.pdf               # Lab assignment instructions
 │   ├── ksa_4bit_df.v           # 4-bit Kogge-Stone adder implementation
 │   ├── ksa_4bit_tb.v           # Kogge-Stone adder testbench
 │   └── Lab 3 Report.pdf        # Lab report and analysis

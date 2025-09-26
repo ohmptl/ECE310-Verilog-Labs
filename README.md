@@ -6,7 +6,12 @@ A comprehensive collection of laboratory assignments and projects from ECE 310 (
 
 - **Course**: ECE 310 - Design of Complex Digital Systems
 - **Institution**: North Carolina State University
+<<<<<<< HEAD
 - **Academic Year**: 2025
+=======
+- **Student**: Ohm Patel
+- **Academic Year**: Fall 2025
+>>>>>>> 89d1711a77d1800a529d75c4a0f904b412a4b6ae
 
 ## 🗂️ Repository Structure
 

@@ -4,10 +4,10 @@ A comprehensive collection of Verilog laboratory assignments from ECE 310 (Compu
 
 ## 📚 Course Information
 
-- **Course**: ECE 310 - Computer Organization
-- **Institution**: North Carolina State University (NCSU)
+- **Course**: ECE 310 - Design of Complex Digital Systems
+- **Institution**: North Carolina State University
 - **Student**: Ohm Patel
-- **Academic Year**: 2025
+- **Academic Year**: Fall 2025
 
 ## 🗂️ Repository Structure
 

@@ -1,4 +1,4 @@
-# 8×8 Wallace Tree Multiplier
+# Project 1 - 8×8 Wallace Tree Multiplier
 This repository contains the implementation and testbench for an 8×8 unsigned Wallace multiplier in Verilog at the gate/structural level.
 
 ## 👨‍💻 Skills & Tools Demonstrated
@@ -30,19 +30,20 @@ The Wallace multiplier reduces the number of partial products through a tree str
 
 ```
 Project 1 - Wallace Multiplier/
-├── README.md                               # Project-specific documentation
-├── project1.v                              # Main Wallace multiplier implementation
-├── rca.v                                   # Ripple carry adder component
-├── wallace_exhaustive_tb.v                 # Comprehensive testbench
-├── Project_Design.pdf                      # Design documentation
-└── Wallace Multiplier Final Report.pdf     # Complete project report
+├── README.md                 # Project-specific documentation
+├── project1.v                # Main Wallace multiplier implementation
+├── rca.v                     # Ripple carry adder component
+├── wallace_exhaustive_tb.v   # Comprehensive testbench
+├── Project 1.pdf             # Project instructions
+├── Project 1 Design.pdf      # Design documentation
+└── Project 1 Report.pdf      # Complete project report
 ```
 
 ## 📝 Report & Documentation
 
-Comprehensive documentation available in `/docs`:
-- `Project_Design.pdf` - Design specifications and methodology
-- `Wallace Multiplier Final Report.pdf` - Complete analysis including:
+Comprehensive documentation:
+- `Project 1 Design.pdf` - Design specifications and methodology
+- `Project 1 Report.pdf` - Complete analysis including:
   - Block and gate-level diagrams
   - Gate count analysis
   - Simulation results and waveforms
